@@ -1,0 +1,72 @@
+survey_name,skill_id,action
+APT,,dropped (package/OS tool)
+ASP.NET,aspnet_core,merged
+ASP.NET Core,aspnet_core,merged
+Amazon Web Services (AWS),aws,kept
+Angular,angular,kept
+Assembly,assembly,kept
+Bash/Shell (all shells),bash,kept
+BigQuery,bigquery,kept
+Blazor,blazor,kept
+C,c,kept
+C#,csharp,kept
+C++,cpp,kept
+Cargo,,dropped (package/OS tool)
+Cloud Firestore,firebase,merged
+Dart,dart,kept
+Django,django,kept
+Docker,docker,kept
+Elasticsearch,elasticsearch,kept
+Express,express,kept
+FastAPI,fastapi,kept
+Firebase,firebase,merged
+Firebase Realtime Database,firebase,merged
+Flask,flask,kept
+Go,go,kept
+Google Cloud,gcp,kept
+Gradle,gradle,kept
+HTML/CSS,html_css,kept
+Homebrew,,dropped (package/OS tool)
+InfluxDB,influxdb,kept
+Java,java,kept
+JavaScript,javascript,kept
+Kotlin,kotlin,kept
+Kubernetes,kubernetes,kept
+MSBuild,,dropped (package/OS tool)
+Machine Learning (general),machine_learning,kept
+Make,build_systems,merged
+MariaDB,mariadb,kept
+Microsoft Azure,azure,kept
+Microsoft SQL Server,mssql,kept
+MongoDB,mongodb,kept
+MySQL,mysql,kept
+Next.js,nextjs,kept
+Ninja,build_systems,merged
+Node.js,nodejs,kept
+NuGet,,dropped (package/OS tool)
+Oracle,oracle,kept
+PHP,php,kept
+Pip,,dropped (package/OS tool)
+Poetry,,dropped (package/OS tool)
+PostgreSQL,postgresql,kept
+PowerShell,powershell,kept
+PyTorch,pytorch,kept
+Python,python,kept
+React,react,kept
+Redis,redis,kept
+SQL,sql,kept
+SQLite,sqlite,kept
+Scikit-learn,sklearn,kept
+Spring Boot,spring_boot,kept
+Supabase,supabase,kept
+Swift,swift,kept
+TensorFlow,tensorflow,kept
+TypeScript,typescript,kept
+Vite,frontend_build,merged
+Vue.js,vue,kept
+Webpack,frontend_build,merged
+WordPress,wordpress,kept
+Yarn,,dropped (package/OS tool)
+jQuery,jquery,kept
+npm,,dropped (package/OS tool)
+pnpm,,dropped (package/OS tool)

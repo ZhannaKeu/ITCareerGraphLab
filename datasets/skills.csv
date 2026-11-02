@@ -1,0 +1,72 @@
+skill_id,name,category,aliases,source
+aws,AWS,cloud_devops,aws;amazon web services,survey
+azure,Microsoft Azure,cloud_devops,azure,survey
+docker,Docker,cloud_devops,docker;докер;контейнеризация,survey
+gcp,Google Cloud,cloud_devops,gcp;google cloud,survey
+kubernetes,Kubernetes,cloud_devops,kubernetes;k8s,survey
+bigquery,BigQuery,database,bigquery,survey
+elasticsearch,Elasticsearch,database,elasticsearch;elastic,survey
+firebase,Firebase,database,firebase;firestore;firebase realtime database,survey
+influxdb,InfluxDB,database,influxdb;influx,survey
+mariadb,MariaDB,database,mariadb,survey
+mongodb,MongoDB,database,mongo;mongodb,survey
+mssql,Microsoft SQL Server,database,mssql;sql server;ms sql,survey
+mysql,MySQL,database,mysql,survey
+oracle,Oracle Database,database,oracle;oracle db,survey
+postgresql,PostgreSQL,database,postgres;postgresql;постгрес,survey
+redis,Redis,database,redis,survey
+sqlite,SQLite,database,sqlite,survey
+supabase,Supabase,database,supabase,survey
+angular,Angular,framework,angular;angularjs,survey
+aspnet_core,ASP.NET Core,framework,asp.net;asp.net core;aspnet,survey
+blazor,Blazor,framework,blazor,survey
+django,Django,framework,django,survey
+express,Express,framework,express;express.js,survey
+fastapi,FastAPI,framework,fastapi,survey
+flask,Flask,framework,flask,survey
+jquery,jQuery,framework,jquery,survey
+nextjs,Next.js,framework,next;next.js;nextjs,survey
+nodejs,Node.js,framework,node;node.js;nodejs,survey
+react,React,framework,react;react.js;reactjs,survey
+spring_boot,Spring Boot,framework,spring;spring boot;springboot,survey
+vue,Vue.js,framework,vue;vue.js;vuejs,survey
+wordpress,WordPress,framework,wordpress;wp,survey
+algorithms,Algorithms and Data Structures,fundamentals,алгоритмы;структуры данных;algorithms;data structures;asd,manual
+architecture,Software Architecture,fundamentals,архитектура по;software architecture;микросервисы,manual
+computer_architecture,Computer Architecture,fundamentals,архитектура эвм;computer architecture;организация эвм,manual
+data_analysis,"Data Analysis (pandas, NumPy)",fundamentals,pandas;numpy;анализ данных;data analysis,manual
+db_design,Database Design,fundamentals,проектирование бд;нормализация;er-диаграммы;database design,manual
+design_patterns,Design Patterns,fundamentals,паттерны проектирования;design patterns;solid,manual
+embedded_mcu,Microcontrollers and RTOS,fundamentals,микроконтроллеры;rtos;arduino;stm32;embedded,manual
+git,Git (version control),fundamentals,git;github;gitlab;контроль версий,manual
+math_ml,"Math for ML (Linear Algebra, Probability, Statistics)",fundamentals,линейная алгебра;теория вероятностей;статистика;linear algebra;statistics,manual
+networks,Computer Networks,fundamentals,компьютерные сети;networks;tcp/ip;http,manual
+oop,Object-Oriented Programming,fundamentals,ооп;oop;объектно-ориентированное программирование,manual
+os_linux,Operating Systems and Linux,fundamentals,операционные системы;linux;unix;os,manual
+rest_api,REST API Design,fundamentals,rest;rest api;api;http api,manual
+security,Information Security Basics,fundamentals,информационная безопасность;security;owasp,manual
+testing,Software Testing,fundamentals,тестирование;unit tests;pytest;junit;testing,manual
+assembly,Assembly,language,assembly;asm;ассемблер,survey
+bash,Bash/Shell,language,bash;shell;sh;zsh;командная строка,survey
+c,C,language,c;язык си,survey
+cpp,C++,language,c++;cpp;плюсы,survey
+csharp,C#,language,c#;csharp;си шарп;.net,survey
+dart,Dart,language,dart,survey
+go,Go,language,go;golang,survey
+html_css,HTML/CSS,language,html;css;html5;css3;вёрстка,survey
+java,Java,language,java;джава,survey
+javascript,JavaScript,language,js;javascript;джаваскрипт;ecmascript,survey
+kotlin,Kotlin,language,kotlin;котлин,survey
+php,PHP,language,php,survey
+powershell,PowerShell,language,powershell;ps1,survey
+python,Python,language,python;питон;py,survey
+sql,SQL,language,sql;язык запросов,survey
+swift,Swift,language,swift;свифт,survey
+typescript,TypeScript,language,ts;typescript,survey
+machine_learning,Machine Learning,ml,machine learning;ml;машинное обучение,survey
+pytorch,PyTorch,ml,pytorch;torch,survey
+sklearn,Scikit-learn,ml,scikit-learn;sklearn,survey
+tensorflow,TensorFlow,ml,tensorflow;tf;keras,survey
+build_systems,Build systems (Make/CMake/Ninja),tool,make;cmake;ninja;makefile,survey
+frontend_build,Frontend build tools (Vite/Webpack),tool,vite;webpack;сборщик,survey
+gradle,Gradle,tool,gradle,survey

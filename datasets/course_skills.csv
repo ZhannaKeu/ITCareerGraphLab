@@ -1,0 +1,49 @@
+course_id,skill_id,contribution,note
+algorithmization,algorithms,0.8,
+algorithmization,python,0.5,курс на Python
+ict,networks,0.2,онлайн-курс Coursera
+ict,os_linux,0.1,
+programming_basics,cpp,0.6,курс на C++
+programming_basics,algorithms,0.4,
+programming_basics,oop,0.3,
+mathematics,math_ml,0.3,высшая математика
+os_admin,os_linux,0.8,
+os_admin,bash,0.5,
+os_admin,powershell,0.3,
+web_architecture,rest_api,0.6,
+web_architecture,architecture,0.5,
+web_architecture,html_css,0.4,
+web_architecture,javascript,0.3,
+databases,sql,0.8,
+databases,db_design,0.7,
+databases,mysql,0.5,курс на MySQL
+microprocessors,embedded_mcu,0.7,включая Arduino
+microprocessors,computer_architecture,0.6,
+microprocessors,assembly,0.4,
+microprocessors,c,0.3,
+discrete_math,math_ml,0.5,"математическая база, без ML"
+discrete_math,algorithms,0.3,
+dev_tools,architecture,0.4,"UML, CASE-средства (Rational Rose, Visio)"
+dev_tools,oop,0.2,объектно-ориентированный подход к проектированию
+computer_networks,networks,0.8,на оборудовании Cisco
+system_programming,cpp,0.6,курс на C++
+system_programming,os_linux,0.5,теория Windows и Linux
+system_programming,computer_architecture,0.3,
+system_programming,bash,0.2,
+1c_integration,db_design,0.3,моделирование данных предприятия в 1С
+data_analytics,data_analysis,0.6,
+data_analytics,python,0.4,
+data_analytics,sql,0.3,
+data_analytics,math_ml,0.3,
+cisco,networks,0.7,
+python,python,0.9,
+python,oop,0.5,
+testing,testing,0.9,
+info_security,security,0.6,в основном шифрование данных
+mobile_dev,kotlin,0.6,Android Studio
+mobile_dev,gradle,0.2,сборка в Android Studio
+mobile_dev,oop,0.2,
+team_dev_mgmt,git,0.4,командный проект
+team_dev_mgmt,testing,0.2,
+java,java,0.9,
+java,oop,0.6,

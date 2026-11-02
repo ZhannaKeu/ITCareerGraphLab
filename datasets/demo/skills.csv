@@ -1,0 +1,25 @@
+skill_id,name,category,description
+git,Git & version control,Engineering,"Branches, commits and collaborative workflows"
+linux,Linux fundamentals,Infrastructure,"Shell, processes and permissions"
+python,Python,Programming,"Core language, data structures and modules"
+javascript,JavaScript,Programming,Language fundamentals and asynchronous execution
+sql,SQL,Data,Relational queries and data modeling
+http,HTTP & networking,Engineering,Client-server protocols and network fundamentals
+typescript,TypeScript,Programming,Static types for JavaScript applications
+react,React,Frontend,Component architecture and state management
+testing,Software testing,Quality,"Test design, unit tests and integration tests"
+api,API design,Backend,Resource modeling and service contracts
+fastapi,FastAPI,Backend,Typed Python web APIs
+postgres,PostgreSQL,Data,"Indexes, transactions and relational design"
+docker,Docker,Infrastructure,Container builds and reproducible environments
+cicd,CI/CD,Infrastructure,Automated quality gates and delivery pipelines
+kubernetes,Kubernetes,Infrastructure,Container orchestration and service operations
+statistics,Statistics,Data Science,"Probability, estimation and inference"
+pandas,pandas & NumPy,Data Science,Vectorized data preparation and analysis
+ml,Machine learning,Data Science,"Model fitting, validation and evaluation"
+nlp,NLP,Data Science,Text representations and language models
+etl,Data pipelines,Data,"Reliable extraction, transformation and loading"
+spark,Apache Spark,Data,Distributed data processing
+security,Application security,Engineering,"Threat modeling, authentication and secure coding"
+architecture,System design,Engineering,"Scalability, reliability and service boundaries"
+observability,Observability,Infrastructure,"Metrics, traces and operational diagnosis"

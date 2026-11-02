@@ -1,0 +1,18 @@
+{
+  "dataset": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+  "record_hash": "a010c4b6a6a5b74b314af30c2a5ba6cb0b9359d1d100f0303883d534fb81511c",
+  "parameters": {
+    "source_profile": "backend:junior",
+    "target_profile": "fullstack:middle",
+    "version_id": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+    "minimum_prerequisite_level": 1.0,
+    "lambda": 0.5,
+    "algorithm": "kahn",
+    "weight_source": "skill_weights_by_role_final_v2.csv",
+    "included_edges": [],
+    "excluded_edges": [],
+    "verification_scope": "all"
+  },
+  "experiment_kind": "batch",
+  "run_id": "325d2523ad80f832b071cd6d29f55688c74612a7d31fbc0107ded16e7b7ecfe4"
+}

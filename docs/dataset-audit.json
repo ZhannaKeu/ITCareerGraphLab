@@ -1,0 +1,394 @@
+{
+  "errors": [],
+  "warnings": [
+    {
+      "code": "missing_auxiliary_weight",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": 230,
+      "message": "relative_weight absent; selected weight_0_1 is present and used; no imputation"
+    },
+    {
+      "code": "missing_auxiliary_weight",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": 231,
+      "message": "relative_weight absent; selected weight_0_1 is present and used; no imputation"
+    },
+    {
+      "code": "missing_auxiliary_weight",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": 232,
+      "message": "relative_weight absent; selected weight_0_1 is present and used; no imputation"
+    },
+    {
+      "code": "missing_auxiliary_weight",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": 233,
+      "message": "relative_weight absent; selected weight_0_1 is present and used; no imputation"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 2,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 3,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 4,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 5,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 6,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 7,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 15,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 16,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 17,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 45,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 46,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 71,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 72,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 75,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 76,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 79,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 80,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 84,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 100,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 101,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 102,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 103,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 108,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 109,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 125,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 126,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 154,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 155,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 160,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 161,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 164,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 165,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 166,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 167,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 168,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 190,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "excluded_group_requirement",
+      "file": "role_requirements.csv",
+      "row": 191,
+      "message": "Ambiguous ANY-group requirement: stored, excluded from M1/M2/M3"
+    },
+    {
+      "code": "dropped_weight_rows",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": null,
+      "message": "24 package/OS-tool rows excluded via explicit mapping"
+    },
+    {
+      "code": "merged_weight_rows",
+      "file": "skill_weights_by_role_final_v2.csv",
+      "row": null,
+      "message": "6 alias collisions aggregated with MAX(weight_0_1); raw rows preserved"
+    }
+  ],
+  "manifest": {
+    "skills.csv": {
+      "sha256": "e0932d7b384c4bac58f956508dcb68c63633f13c395516c6a6d19366b5850a2d",
+      "bytes": 4888,
+      "headers": [
+        "skill_id",
+        "name",
+        "category",
+        "aliases",
+        "source"
+      ],
+      "rows": 71
+    },
+    "skill_mapping.csv": {
+      "sha256": "75048fe10271165ec39912ec73d954acdcddcdef94b593cf158c683340abb5d3",
+      "bytes": 1756,
+      "headers": [
+        "survey_name",
+        "skill_id",
+        "action"
+      ],
+      "rows": 71
+    },
+    "skill_groups.csv": {
+      "sha256": "d23b3e94501c69e11a34ca34f5d7bfb69b487a7029f2598862b0783739b70193",
+      "bytes": 1884,
+      "headers": [
+        "group_id",
+        "group_name",
+        "skill_id"
+      ],
+      "rows": 41
+    },
+    "skill_levels.csv": {
+      "sha256": "af8df77ebf939c487ceee03beef8a554b9af1fdb4e9230cdd32e7a920d39edc3",
+      "bytes": 812,
+      "headers": [
+        "level",
+        "name",
+        "description"
+      ],
+      "rows": 5
+    },
+    "prerequisites.csv": {
+      "sha256": "e4877d587f7d44f8b8e9ae9d692b509cda0f989e1d94482ec32509e2d3278540",
+      "bytes": 958,
+      "headers": [
+        "from_skill",
+        "to_skill"
+      ],
+      "rows": 51
+    },
+    "skill_dependents.csv": {
+      "sha256": "9ea1549b81c124171c308bd5142242af496ace558b9717d60a03a5d914f447e5",
+      "bytes": 919,
+      "headers": [
+        "skill_id",
+        "dependents",
+        "prerequisites"
+      ],
+      "rows": 71
+    },
+    "role_skill_weights.csv": {
+      "sha256": "f5fa4a63b0557b54508384e6dcbb8caf154a8833cc56477e81daab99e76e4812",
+      "bytes": 5954,
+      "headers": [
+        "role",
+        "skill_id",
+        "weight",
+        "source"
+      ],
+      "rows": 202
+    },
+    "role_requirements.csv": {
+      "sha256": "3e55d2e330dc5a63c4d6b2cbe44bcf80882ce356ef325cc298183b76b2dd3827",
+      "bytes": 9335,
+      "headers": [
+        "role",
+        "grade",
+        "item_id",
+        "item_type",
+        "required",
+        "weight",
+        "weight_source"
+      ],
+      "rows": 204
+    },
+    "course_skills.csv": {
+      "sha256": "8206a8a376756c6f08890968015bee31177abbc95195613964ffca7b1139138c",
+      "bytes": 1919,
+      "headers": [
+        "course_id",
+        "skill_id",
+        "contribution",
+        "note"
+      ],
+      "rows": 48
+    },
+    "skill_weights_by_role_final_v2.csv": {
+      "sha256": "0bf1cb66cea8ba0a46aaefc2442d6d71870e5b6d272bb995c183d3f99c1cca92",
+      "bytes": 11087,
+      "headers": [
+        "role",
+        "skill",
+        "raw_frequency",
+        "relative_weight",
+        "weight_0_1"
+      ],
+      "rows": 232
+    }
+  },
+  "version_id": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+  "stats": {
+    "skills": 71,
+    "roles": 7,
+    "profiles": 14,
+    "edges": 51,
+    "groups": 11,
+    "group_requirements_excluded": 37,
+    "transitions": 182,
+    "final_weight_rows_dropped": 24,
+    "final_weight_alias_merges": 6
+  },
+  "rules": {
+    "adapter": "research-csv-v2",
+    "level_scale": "0..4",
+    "graph_authority": "prerequisites.csv",
+    "group_requirements": "excluded",
+    "final_weight": "MAX(weight_0_1) after explicit skill_mapping; dropped excluded",
+    "weight_sources": "Never blended; requirement.weight retained for audit only"
+  }
+}

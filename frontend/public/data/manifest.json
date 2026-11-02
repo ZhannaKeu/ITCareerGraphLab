@@ -1,0 +1,19 @@
+{
+  "dataset": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+  "files": [
+    "course_skills.csv",
+    "prerequisites.csv",
+    "role_requirements.csv",
+    "role_skill_weights.csv",
+    "skill_dependents.csv",
+    "skill_groups.csv",
+    "skill_levels.csv",
+    "skill_mapping.csv",
+    "skill_weights_by_role_final_v2.csv",
+    "skills.csv"
+  ],
+  "record_hash": "a010c4b6a6a5b74b314af30c2a5ba6cb0b9359d1d100f0303883d534fb81511c",
+  "reference_python": "3.11.9",
+  "sha256": "0e79025f7f0c25997af0d095431c278932eacd9cff2d12a24c0cde0a7fb33e40",
+  "source_data_hash": "93aef3e71b22478c828f34f98f465f2c3019c78999e291fdda52d8036fe7ca76"
+}

@@ -1,0 +1,336 @@
+{
+  "result": {
+    "M1": 14.0,
+    "M2": 4.872313261885517,
+    "M3": 4.872313261885517,
+    "direct_score": 4.872313261885517,
+    "prerequisite_burden": 0,
+    "weighted_prerequisite_burden": 0.0,
+    "missing_skills": [
+      "algorithms",
+      "architecture",
+      "docker",
+      "git",
+      "html_css",
+      "javascript",
+      "nodejs",
+      "oop",
+      "redis",
+      "rest_api",
+      "security",
+      "sql",
+      "testing",
+      "typescript"
+    ],
+    "prerequisite_skills": [
+      "db_design",
+      "design_patterns",
+      "html_css",
+      "javascript",
+      "networks",
+      "oop",
+      "os_linux",
+      "rest_api",
+      "sql"
+    ],
+    "learning_order": [
+      "algorithms",
+      "git",
+      "html_css",
+      "javascript",
+      "nodejs",
+      "oop",
+      "docker",
+      "redis",
+      "rest_api",
+      "security",
+      "sql",
+      "architecture",
+      "testing",
+      "typescript"
+    ],
+    "details": [
+      {
+        "skill_id": "algorithms",
+        "known_level": 2.0,
+        "target_level": 3.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "git",
+        "known_level": 2.0,
+        "target_level": 3.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "html_css",
+        "known_level": null,
+        "target_level": 3.0,
+        "direct_deficit": 3.0,
+        "additional_deficit": 0.0,
+        "weight": 0.8224996505105279,
+        "is_prerequisite": true
+      },
+      {
+        "skill_id": "javascript",
+        "known_level": null,
+        "target_level": 4.0,
+        "direct_deficit": 4.0,
+        "additional_deficit": 0.0,
+        "weight": 0.8751592032265183,
+        "is_prerequisite": true
+      },
+      {
+        "skill_id": "nodejs",
+        "known_level": null,
+        "target_level": 3.0,
+        "direct_deficit": 3.0,
+        "additional_deficit": 0.0,
+        "weight": 0.7139790403399191,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "oop",
+        "known_level": 2.0,
+        "target_level": 3.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": true
+      },
+      {
+        "skill_id": "docker",
+        "known_level": 1.0,
+        "target_level": 2.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 0.427135201744688,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "redis",
+        "known_level": 1.0,
+        "target_level": 2.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 0.4072516551724607,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "rest_api",
+        "known_level": 2.0,
+        "target_level": 3.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": true
+      },
+      {
+        "skill_id": "security",
+        "known_level": 1.0,
+        "target_level": 2.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "sql",
+        "known_level": 2.0,
+        "target_level": 3.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 0.6345182604860161,
+        "is_prerequisite": true
+      },
+      {
+        "skill_id": "architecture",
+        "known_level": null,
+        "target_level": 2.0,
+        "direct_deficit": 2.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "testing",
+        "known_level": 1.0,
+        "target_level": 2.0,
+        "direct_deficit": 1.0,
+        "additional_deficit": 0.0,
+        "weight": 1.0,
+        "is_prerequisite": false
+      },
+      {
+        "skill_id": "typescript",
+        "known_level": null,
+        "target_level": 3.0,
+        "direct_deficit": 3.0,
+        "additional_deficit": 0.0,
+        "weight": 0.6367583482271635,
+        "is_prerequisite": false
+      }
+    ],
+    "unknown_source_skills": [
+      "architecture",
+      "html_css",
+      "javascript",
+      "nodejs",
+      "typescript"
+    ],
+    "unknown_target_skills": [],
+    "fallback_weight_skills": [
+      "algorithms",
+      "architecture",
+      "git",
+      "oop",
+      "rest_api",
+      "security",
+      "testing"
+    ],
+    "scenario": "conservative: unknown source=0; unknown target=4; missing target weight=1",
+    "units": "dimensionless; M1=count, M2/M3=weighted normalized proficiency deficits",
+    "source_profile": "backend:junior",
+    "target_profile": "fullstack:middle"
+  },
+  "provenance": {
+    "dataset": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+    "parameters": {
+      "source_profile": "backend:junior",
+      "target_profile": "fullstack:middle",
+      "version_id": "931ef23ff96179ef8aa9567604b6f13b292cb616b40f6131d726873ddfb30751",
+      "minimum_prerequisite_level": 1.0,
+      "lambda": 0.5,
+      "algorithm": "kahn",
+      "weight_source": "skill_weights_by_role_final_v2.csv",
+      "included_edges": [],
+      "excluded_edges": []
+    },
+    "implementation": "1.0.0",
+    "run_id": "87fd2cae01a7555e685799dddfc006bead15e979e9bf762d1110e50dad6c1b1b",
+    "is_demo": false,
+    "manifest": {
+      "skills.csv": {
+        "sha256": "e0932d7b384c4bac58f956508dcb68c63633f13c395516c6a6d19366b5850a2d",
+        "bytes": 4888,
+        "headers": [
+          "skill_id",
+          "name",
+          "category",
+          "aliases",
+          "source"
+        ],
+        "rows": 71
+      },
+      "skill_mapping.csv": {
+        "sha256": "75048fe10271165ec39912ec73d954acdcddcdef94b593cf158c683340abb5d3",
+        "bytes": 1756,
+        "headers": [
+          "survey_name",
+          "skill_id",
+          "action"
+        ],
+        "rows": 71
+      },
+      "skill_groups.csv": {
+        "sha256": "d23b3e94501c69e11a34ca34f5d7bfb69b487a7029f2598862b0783739b70193",
+        "bytes": 1884,
+        "headers": [
+          "group_id",
+          "group_name",
+          "skill_id"
+        ],
+        "rows": 41
+      },
+      "skill_levels.csv": {
+        "sha256": "af8df77ebf939c487ceee03beef8a554b9af1fdb4e9230cdd32e7a920d39edc3",
+        "bytes": 812,
+        "headers": [
+          "level",
+          "name",
+          "description"
+        ],
+        "rows": 5
+      },
+      "prerequisites.csv": {
+        "sha256": "e4877d587f7d44f8b8e9ae9d692b509cda0f989e1d94482ec32509e2d3278540",
+        "bytes": 958,
+        "headers": [
+          "from_skill",
+          "to_skill"
+        ],
+        "rows": 51
+      },
+      "skill_dependents.csv": {
+        "sha256": "9ea1549b81c124171c308bd5142242af496ace558b9717d60a03a5d914f447e5",
+        "bytes": 919,
+        "headers": [
+          "skill_id",
+          "dependents",
+          "prerequisites"
+        ],
+        "rows": 71
+      },
+      "role_skill_weights.csv": {
+        "sha256": "f5fa4a63b0557b54508384e6dcbb8caf154a8833cc56477e81daab99e76e4812",
+        "bytes": 5954,
+        "headers": [
+          "role",
+          "skill_id",
+          "weight",
+          "source"
+        ],
+        "rows": 202
+      },
+      "role_requirements.csv": {
+        "sha256": "3e55d2e330dc5a63c4d6b2cbe44bcf80882ce356ef325cc298183b76b2dd3827",
+        "bytes": 9335,
+        "headers": [
+          "role",
+          "grade",
+          "item_id",
+          "item_type",
+          "required",
+          "weight",
+          "weight_source"
+        ],
+        "rows": 204
+      },
+      "course_skills.csv": {
+        "sha256": "8206a8a376756c6f08890968015bee31177abbc95195613964ffca7b1139138c",
+        "bytes": 1919,
+        "headers": [
+          "course_id",
+          "skill_id",
+          "contribution",
+          "note"
+        ],
+        "rows": 48
+      },
+      "skill_weights_by_role_final_v2.csv": {
+        "sha256": "0bf1cb66cea8ba0a46aaefc2442d6d71870e5b6d272bb995c183d3f99c1cca92",
+        "bytes": 11087,
+        "headers": [
+          "role",
+          "skill",
+          "raw_frequency",
+          "relative_weight",
+          "weight_0_1"
+        ],
+        "rows": 232
+      }
+    },
+    "runtime": {
+      "python": "3.12.16",
+      "networkx": "3.6.1"
+    },
+    "weight_rule": "Only target-role weights from the selected file; missing weights explicitly default to 1",
+    "warning": "Group requirements excluded. Scores are not time estimates or evidence of recommendation quality."
+  }
+}

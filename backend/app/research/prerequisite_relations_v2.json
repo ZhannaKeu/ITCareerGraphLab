@@ -1,0 +1,417 @@
+{
+  "protocol": "prerequisite-relations-v2.1",
+  "source_file": "prerequisites.csv",
+  "source_sha256": "e4877d587f7d44f8b8e9ae9d692b509cda0f989e1d94482ec32509e2d3278540",
+  "numbering": "1-based data rows, header excluded",
+  "classification_source": "AI-assisted preliminary review",
+  "relations": [
+    {
+      "source_row": 1,
+      "from_skill": "oop",
+      "to_skill": "design_patterns",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 2,
+      "from_skill": "design_patterns",
+      "to_skill": "architecture",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 3,
+      "from_skill": "rest_api",
+      "to_skill": "architecture",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 4,
+      "from_skill": "db_design",
+      "to_skill": "architecture",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 5,
+      "from_skill": "sql",
+      "to_skill": "db_design",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 6,
+      "from_skill": "networks",
+      "to_skill": "rest_api",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 7,
+      "from_skill": "networks",
+      "to_skill": "security",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 8,
+      "from_skill": "os_linux",
+      "to_skill": "bash",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 9,
+      "from_skill": "os_linux",
+      "to_skill": "docker",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 10,
+      "from_skill": "computer_architecture",
+      "to_skill": "assembly",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 11,
+      "from_skill": "computer_architecture",
+      "to_skill": "embedded_mcu",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 12,
+      "from_skill": "c",
+      "to_skill": "embedded_mcu",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 13,
+      "from_skill": "c",
+      "to_skill": "build_systems",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 14,
+      "from_skill": "html_css",
+      "to_skill": "javascript",
+      "relation_type": "Related",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 15,
+      "from_skill": "javascript",
+      "to_skill": "typescript",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 16,
+      "from_skill": "javascript",
+      "to_skill": "react",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 17,
+      "from_skill": "javascript",
+      "to_skill": "vue",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 18,
+      "from_skill": "javascript",
+      "to_skill": "jquery",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 19,
+      "from_skill": "javascript",
+      "to_skill": "nodejs",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 20,
+      "from_skill": "javascript",
+      "to_skill": "frontend_build",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 21,
+      "from_skill": "typescript",
+      "to_skill": "angular",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 22,
+      "from_skill": "react",
+      "to_skill": "nextjs",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 23,
+      "from_skill": "nodejs",
+      "to_skill": "nextjs",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 24,
+      "from_skill": "nodejs",
+      "to_skill": "express",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 25,
+      "from_skill": "php",
+      "to_skill": "wordpress",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 26,
+      "from_skill": "html_css",
+      "to_skill": "wordpress",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 27,
+      "from_skill": "python",
+      "to_skill": "django",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 28,
+      "from_skill": "python",
+      "to_skill": "flask",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 29,
+      "from_skill": "python",
+      "to_skill": "fastapi",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 30,
+      "from_skill": "java",
+      "to_skill": "spring_boot",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 31,
+      "from_skill": "csharp",
+      "to_skill": "aspnet_core",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 32,
+      "from_skill": "aspnet_core",
+      "to_skill": "blazor",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 33,
+      "from_skill": "sql",
+      "to_skill": "postgresql",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 34,
+      "from_skill": "sql",
+      "to_skill": "mysql",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 35,
+      "from_skill": "sql",
+      "to_skill": "mariadb",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 36,
+      "from_skill": "sql",
+      "to_skill": "mssql",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 37,
+      "from_skill": "sql",
+      "to_skill": "oracle",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 38,
+      "from_skill": "sql",
+      "to_skill": "sqlite",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 39,
+      "from_skill": "sql",
+      "to_skill": "bigquery",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 40,
+      "from_skill": "postgresql",
+      "to_skill": "supabase",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 41,
+      "from_skill": "docker",
+      "to_skill": "kubernetes",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 42,
+      "from_skill": "networks",
+      "to_skill": "aws",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 43,
+      "from_skill": "networks",
+      "to_skill": "gcp",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 44,
+      "from_skill": "networks",
+      "to_skill": "azure",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 45,
+      "from_skill": "python",
+      "to_skill": "data_analysis",
+      "relation_type": "Required",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 46,
+      "from_skill": "python",
+      "to_skill": "machine_learning",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 47,
+      "from_skill": "math_ml",
+      "to_skill": "machine_learning",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 48,
+      "from_skill": "data_analysis",
+      "to_skill": "machine_learning",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 49,
+      "from_skill": "machine_learning",
+      "to_skill": "sklearn",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 50,
+      "from_skill": "machine_learning",
+      "to_skill": "pytorch",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    },
+    {
+      "source_row": 51,
+      "from_skill": "machine_learning",
+      "to_skill": "tensorflow",
+      "relation_type": "Recommended",
+      "min_level": null,
+      "verification_status": "Unverified"
+    }
+  ]
+}

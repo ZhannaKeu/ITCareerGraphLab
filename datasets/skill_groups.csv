@@ -1,0 +1,42 @@
+group_id,group_name,skill_id
+relational_db,Relational DBMS (any),postgresql
+relational_db,Relational DBMS (any),mysql
+relational_db,Relational DBMS (any),mssql
+relational_db,Relational DBMS (any),mariadb
+relational_db,Relational DBMS (any),oracle
+nosql_db,NoSQL DBMS (any),mongodb
+nosql_db,NoSQL DBMS (any),elasticsearch
+cloud,Cloud platform (any),aws
+cloud,Cloud platform (any),gcp
+cloud,Cloud platform (any),azure
+scripting,Shell scripting (any),bash
+scripting,Shell scripting (any),powershell
+backend_language,Backend language (any),java
+backend_language,Backend language (any),python
+backend_language,Backend language (any),go
+backend_language,Backend language (any),csharp
+backend_language,Backend language (any),javascript
+backend_language,Backend language (any),php
+backend_language,Backend language (any),kotlin
+backend_framework,Backend framework (any),spring_boot
+backend_framework,Backend framework (any),aspnet_core
+backend_framework,Backend framework (any),django
+backend_framework,Backend framework (any),fastapi
+backend_framework,Backend framework (any),flask
+backend_framework,Backend framework (any),express
+backend_framework,Backend framework (any),nodejs
+frontend_framework,Frontend framework (any),react
+frontend_framework,Frontend framework (any),angular
+frontend_framework,Frontend framework (any),vue
+mobile_language,Mobile language (any),swift
+mobile_language,Mobile language (any),kotlin
+mobile_language,Mobile language (any),dart
+mobile_language,Mobile language (any),java
+desktop_language,Desktop language (any),csharp
+desktop_language,Desktop language (any),cpp
+desktop_language,Desktop language (any),java
+ml_framework,Deep learning framework (any),pytorch
+ml_framework,Deep learning framework (any),tensorflow
+ml_serving,Model serving framework (any),fastapi
+ml_serving,Model serving framework (any),flask
+ml_serving,Model serving framework (any),django
